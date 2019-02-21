@@ -16,7 +16,7 @@ virtualenv venv --python=python3.6
 source venv/bin/activate
 pip install pandas xlrd
 
-python3.6 code/fake_news.py
+python code/fake_news.py
 # Extract fake news data
 # in:
 #   data/domain_coding/data/black_sites.txt
@@ -24,7 +24,7 @@ python3.6 code/fake_news.py
 # out:
 #   data/fake_news.tsv
 
-python3.6 code/aggregate_domains.py
+python code/aggregate_domains.py
 # Merge all, keyed by domain
 # in:
 #   data/fake_news.tsv
@@ -32,4 +32,4 @@ python3.6 code/aggregate_domains.py
 # out:
 #   data/domains/domains.tsv
 
-# deactivate
+deactivate
