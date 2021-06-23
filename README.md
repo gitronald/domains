@@ -4,7 +4,7 @@ A repository for aggregating __web domain metrics__, like partisanship or veraci
 
 Currently includes data from:
 
-Grinberg, N., Joseph, K., Friedland, L., Swire-Thompson, B., & Lazer, D. (2019). Fake news on Twitter during the 2016 US presidential election. Science, 363(6425), 374-378.  [Download data](https://github.com/LazerLab/twitter-fake-news-replication/trunk/domains/domain_coding)  
+Grinberg, N., Joseph, K., Friedland, L., Swire-Thompson, B., & Lazer, D. (2019). Fake news on Twitter during the 2016 US presidential election. Science, 363(6425), 374-378.  [Download data](https://www.nature.com/articles/s41467-018-07761-2)  
 
 Robertson, R. E., Jiang, S., Joseph, K., Friedland, L., Lazer, D., & Wilson, C. (2018). Auditing Partisan Audience Bias within Google Search. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 148.  [Download data](http://personalization.ccs.neu.edu/static/archive/bias_scores.tar.gz)  
 
