@@ -16,3 +16,9 @@ Budak, C., Goel, S., Rao, J. (2016). Fair and Balanced? Quantifying Media Bias t
 
 Baly, R., Karadzhov, G., Saleh, A., Glass, J., Nakov, P. (2019). Multi-Task Ordinal Regression for Jointly Predicting the Trustworthiness and the Leading Political Ideology of News Media. Proceedings of the 2019 Conference of the North American Chapter for Computational Linguistics: Human Language Technologies, Volume 1, 2109-2116. [Download Data](https://github.com/ramybaly/News-Media-Reliability/)
 
+Dharpure, S. (2020). Media Bias on Twitter using Sentiment Analysis [BERT]. _Medium_, Analytics Vidhya, https://medium.com/analytics-vidhya/media-bias-on-twitter-using-sentiment-analysis-bert-6a68edbd4eea. [Download data](https://github.com/sourabhdharpure/Media-Bias-on-Twitter-using-Sentiment-Analysis-BERT-)
+
+Horne, B., Khedr, S., Adah, S. (2018). Sampling the News Producers: A Large News and Feature Data Set for the Study of the Complex Media Landscape. arXiv.org, 1803.10124. [Download data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZCXSKG)
+
+Potthast, M., Kiesel, J., Reinartz, K., Bevendorff, J., Stein, B. (2018). A Stylometric Inquiry into Hyperpartisan and Fake News. Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics, 231-240. [Download data](https://github.com/webis-de/ACL-18)
+
