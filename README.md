@@ -2,11 +2,20 @@
 
 A repository for aggregating __web domain metrics__, like partisanship or veracity classification, from peer reviewed publications. All data gathering and aggregating can be replicated by running `bash replicate.sh`. If you're looking for the final product see: `data/domains.tsv`
 
+
+News is classifications are available in the `news_is_news` column, and are defined using:  
+1. 488 domains identified as ‘hard news’ by Bakshy et al. (2015)
+2. 1,250 domains manually identified as news by Grinberg et al. (2019), and 
+3. 6,288 domains aggregated from local news listings by Yin (2018)
+
+
 Currently includes data from:
 
 Grinberg, N., Joseph, K., Friedland, L., Swire-Thompson, B., & Lazer, D. (2019). Fake news on Twitter during the 2016 US presidential election. Science, 363(6425), 374-378.  [Download data](https://github.com/LazerLab/twitter-fake-news-replication/tree/master/domains/domain_coding/data)  
 
 Robertson, R. E., Jiang, S., Joseph, K., Friedland, L., Lazer, D., & Wilson, C. (2018). Auditing Partisan Audience Bias within Google Search. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 148.  [Download data](http://personalization.ccs.neu.edu/static/archive/bias_scores.tar.gz)  
+
+Leon Yin. (2018). yinleon/LocalNewsDataset: Initial release (V1.0). Zenodo. https://doi.org/10.5281/zenodo.1345145  
 
 Robertson et al. (2018) includes data from:  
 - AllSides. 2018. Media Bias Ratings. AllSides. (2018). [Download Data](https://www.allsides.com/media-bias/media-bias-ratings)  
